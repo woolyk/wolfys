@@ -1,19 +1,19 @@
 <xml>
   <dir>
 	<title>TV Portal</title>
-	<link>file://tvshows/main.xml</link>
+	<link>https://raw.githubusercontent.com/woolyk/wolfys/master/tvshows/main.xml</link>
 	<summary>TV Shows</summary>
   </dir>
 
   <dir>
 	<title>Movies Portal</title>
-	<link>file://movies/movies.xml</link>
+	<link>https://raw.githubusercontent.com/woolyk/wolfys/master/movies/movies.xml</link>
 	<summary>Movies Old and New</summary>
   </dir>
   
   <dir>
 	<title>Old Movie Portal</title>
-	<link>file://movies/main.xml</link>
+	<link>https://raw.githubusercontent.com/woolyk/wolfys/master/movies/main.xml</link>
 	<summary>This is a link to and old version of movies protal</summary>
   </dir>
   
