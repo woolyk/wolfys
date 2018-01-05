@@ -27,4 +27,13 @@
 	<title>Bryan Cranston Movies TMDB</title>
 	<tmdb>person/movies/17419</tmdb>
 </dir>
-	
+
+<dir>
+	<title>My Alien Movies</title>
+	<trakt>https://trakt.tv/users/woolykodi/lists/alien-movies/items</trakt>
+</dir>
+
+<dir>
+	<title>My TV Shows</title>
+	<trakt>https://trakt.tv/users/woolykodi/lists/tv-shows/items</trakt>
+</dir>
