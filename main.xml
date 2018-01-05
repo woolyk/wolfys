@@ -22,4 +22,11 @@
 	<link>https://raw.githubusercontent.com/woolyk/wolfys/master/screeners/screeners.xml</link>
 	<summary>A list of screener movies</summary>
   </dir>
+  
+  <dir>
+	<title>Trakt Lists</title>
+	<link>https://raw.githubusercontent.com/woolyk/wolfys/master/track/main.aml</link>
+	<summary>Testing to see if Trakt Lists are Working</summary>
+  </dir>
+  
 </xml>
