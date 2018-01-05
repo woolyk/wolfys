@@ -36,6 +36,12 @@
 		<summary>Popular TV Shows</summary>
 	</dir>
 	<dir>
+		<title>Networks</title>
+		<link>https://github.com/woolyk/wolfys/blob/master/tvshows/networks.xml</link>
+		<thumbnail></thumbnail>
+		<summary>Networks</summary>
+	</dir>
+	<dir>
 		<title>Top Rated Shows</title>
 		<tmdb>tv/top_rated</tmdb>
 		<thumbnail></thumbnail>
