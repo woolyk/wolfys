@@ -37,7 +37,7 @@
 	</dir>
 	<dir>
 		<title>Networks</title>
-		<link>https://github.com/woolyk/wolfys/blob/master/tvshows/networks.xml</link>
+		<link>https://raw.githubusercontent.com/woolyk/wolfys/master/tvshows/networks.xml</link>
 		<thumbnail></thumbnail>
 		<summary>Networks</summary>
 	</dir>
