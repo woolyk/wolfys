@@ -25,7 +25,7 @@
   
   <dir>
 	<title>Trakt Lists</title>
-	<link>https://raw.githubusercontent.com/woolyk/wolfys/master/track/main.aml</link>
+	<link>https://raw.githubusercontent.com/woolyk/wolfys/master/track/main.xml</link>
 	<summary>Testing to see if Trakt Lists are Working</summary>
   </dir>
   
