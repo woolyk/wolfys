@@ -29,3 +29,12 @@
 	<fanart></fanart>
 	<info>RTE 1</info>
 </dir>
+
+<dir>
+	<title>More UK Live TV</title>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/tvshows.png</thumbnail>
+	<m3u>https://raw.githubusercontent.com/woolyk/wolfys/master/live/uktv-180106.m3u</m3u>
+	<fanart></fanart>
+	<info>UK Live Channels</info>
+</dir>
+
