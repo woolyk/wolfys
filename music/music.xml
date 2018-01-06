@@ -1,0 +1,21 @@
+<dir>
+	<title>Music Choice</title>
+	<link>https://raw.githubusercontent.com/woolyk/wolfys/master/music/musicchoice.xml</link>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/music.png</thumbnail>
+	<summary>Music Choice</summary>
+</dir>
+
+<dir>
+	<title>Music Choice Videos</title>
+	<link>https://raw.githubusercontent.com/woolyk/wolfys/master/music/musicchoicevideo.xml</link>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/music.png</thumbnail>
+	<summary>Music Choice Videos</summary>
+</dir>
+
+<dir>
+	<title>UK Muics</title>
+	<link>https://raw.githubusercontent.com/woolyk/wolfys/master/music/ukmusic.xml</link>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/music.png</thumbnail>
+	<summary>UK Music</summary>
+</dir>
+
