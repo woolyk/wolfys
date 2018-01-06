@@ -2,30 +2,35 @@
   <dir>
 	<title>TV Portal</title>
 	<link>https://raw.githubusercontent.com/woolyk/wolfys/master/tvshows/main.xml</link>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/tvshows.png</thumbnail>
 	<summary>TV Shows</summary>
   </dir>
 
   <dir>
 	<title>Movies Portal</title>
 	<link>https://raw.githubusercontent.com/woolyk/wolfys/master/movies/movies.xml</link>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/movies.png</thumbnail>
 	<summary>Movies Old and New</summary>
   </dir>
   
   <dir>
 	<title>Old Movie Portal</title>
 	<link>https://raw.githubusercontent.com/woolyk/wolfys/master/movies/main.xml</link>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/movies.png</thumbnail>
 	<summary>This is a link to and old version of movies protal</summary>
   </dir>
   
   <dir>
 	<title>Screeners</title>
 	<link>https://raw.githubusercontent.com/woolyk/wolfys/master/screeners/screeners.xml</link>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/movies.png</thumbnail>
 	<summary>A list of screener movies</summary>
   </dir>
   
   <dir>
 	<title>Trakt Lists</title>
 	<link>https://raw.githubusercontent.com/woolyk/wolfys/master/track/main.xml</link>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/trakt.png</thumbnail>
 	<summary>Testing to see if Trakt Lists are Working</summary>
   </dir>
   
