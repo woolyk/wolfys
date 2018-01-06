@@ -1,42 +1,53 @@
 <dir>
 	<title>Genres</title>
 	<link>https://raw.githubusercontent.com/woolyk/wolfys/master/movies/genremovies.xml</link>
-	<thumbnail></thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/genres.png</thumbnail>
 	<summary>Movie Genres</summary>
 </dir>
 
 <dir>
 	<title>Collections</title>
 	<link>https://raw.githubusercontent.com/woolyk/wolfys/master/movies/collections.xml</link>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/userlists.png</thumbnail>
 	<summary>A Collection of Movies to keep you entertained for hours.</summary>
 </dir>
 
 <dir>
 	<title>Most Popular</title>
 	<tmdb>movies/popular</tmdb>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/most-popular.png</thumbnail>
 	<summary>Popular Movies</summary>
 </dir>
 
 <dir>
 	<title>Now Playing</title>
 	<tmdb>movies/now_playing</tmdb>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/in-theaters.png</thumbnail>
 	<summary>Movies playing now</summary>
 </dir>
 
 <dir>
 	<title>Top Rated</title>
 	<tmdb>movies/top_rated</tmdb>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/highly-rated.png</thumbnail>
 	<summary>Top Rated Movies.</summary>
 </dir>
 
 <dir>
-	<title>Search</title>
-	<tmdb>search</tmdb>
-	<summary>Search for Movies on TMDB</summary>
+	<title>Trending</title>
+	<trakt>https://api.trakt.tv/movies/trending</trakt>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/latest-movies.png</thumbnail>
+	<summary>Trending</summary>
 </dir>
 
 <dir>
-	<title>Tryout</title>
-	<link>https://raw.githubusercontent.com/woolyk/wolfys/master/movies/testing.xml</link>
-	<summary>Trying out something</summary>
+	<title>Search Tmdb</title>
+	<tmdb>search</tmdb>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/search.png</thumbnail>
+	<summary>Search for Movies on TMDB</summary>
+</dir>
+<dir>
+	<title>Search Trakt</title>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/search.png</thumbnail>
+	<trakt>search</trakt>
 </dir>

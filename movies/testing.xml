@@ -1,8 +1,0 @@
-<dir>
-	<title>Trending</title>
-	<trakt>https://api.trakt.tv/movies/trending</trakt>
-</dir>
-<dir>
-	<title>Tryout</title>
-	<link>https://raw.githubusercontent.com/woolyk/wolfys/master/movies/tryout.xml</link>
-</dir>
