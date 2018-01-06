@@ -1,6 +1,6 @@
 <dir>
 	<title>UK Live TV</title>
-	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/mytvshows.png</thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/tvshows.png</thumbnail>
 	<m3u>https://raw.githubusercontent.com/woolyk/wolfys/master/live/uk_060118_iptvsource_com.m3u</m3u>
 	<fanart></fanart>
 	<info>UK Live Channels</info>
@@ -8,7 +8,7 @@
 
 <dir>
 	<title>UK Live TV Link 2</title>
-	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/mytvshows.png</thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/tvshows.png</thumbnail>
 	<m3u>https://raw.githubusercontent.com/woolyk/wolfys/master/live/uk_060118_iptvsource_com2.m3u</m3u>
 	<fanart></fanart>
 	<info>UK Live Channels</info>
@@ -16,8 +16,16 @@
 
 <dir>
 	<title>UK Live TV Link 3</title>
-	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/mytvshows.png</thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/tvshows.png</thumbnail>
 	<m3u>https://raw.githubusercontent.com/woolyk/wolfys/master/live/uk_060118_iptvsource_com3.m3u</m3u>
 	<fanart></fanart>
 	<info>UK Live Channels</info>
+</dir>
+
+<dir>
+	<title>RTE 1</title>
+	<thumbnail></thumbnail>
+	<m3u>http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/459.ts</m3u>
+	<fanart></fanart>
+	<info>RTE 1</info>
 </dir>
