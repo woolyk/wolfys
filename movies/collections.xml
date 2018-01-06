@@ -77,7 +77,7 @@
 
 <dir>
 	<title>Sherlock Holmes</title>
-	<link>file://sherlock.xml</link>
+	<link>https://raw.githubusercontent.com/woolyk/wolfys/master/movies/sherlock.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/original/yGonem68fJd0Jt2EgUhGFD2ww9o.jpg</thumbnail>
 	<summary>Sherlock Holmes Movies</summary>
 </dir>
