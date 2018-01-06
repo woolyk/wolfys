@@ -25,7 +25,7 @@
 <dir>
 	<title>RTE 1</title>
 	<thumbnail></thumbnail>
-	<m3u>http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/459.ts</m3u>
+	<link>https://raw.githubusercontent.com/woolyk/wolfys/master/live/uk_060118_iptvsource_com3.m3u</link>
 	<fanart></fanart>
 	<info>RTE 1</info>
 </dir>
