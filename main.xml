@@ -14,6 +14,13 @@
 	</dir>
 
 	<dir>
+		<title>Live TV Portal</title>
+		<link>https://raw.githubusercontent.com/woolyk/wolfys/master/live/main.xml</link>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/tvshows.png</thumbnail>
+		<summary>Live TV</summary>
+	</dir>
+
+	<dir>
 		<title>Music Portal</title>
 		<link>https://raw.githubusercontent.com/woolyk/wolfys/master/music/music.xml</link>
 		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/music.png</thumbnail>
@@ -37,13 +44,13 @@
 	<plugin>
 		<name>30701</name>
 		<link>plugin://plugin.video.jen/?action=openSettings</link>
-		<thumbnail></thumbnail>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/tools.png</thumbnail>
 	</plugin>  
 
 	<plugin>
 		<name>30702</name>
 		<link>plugin://plugin.video.jen/?action=search</link>
-		<thumbnail></thumbnail>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/search.png</thumbnail>
 	</plugin>
 	
 </xml>

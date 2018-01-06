@@ -1,0 +1,23 @@
+<dir>
+	<title>UK Live TV</title>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/mytvshows.png</thumbnail>
+	<m3u>https://raw.githubusercontent.com/woolyk/wolfys/master/live/uk_060118_iptvsource_com.m3u</m3u>
+	<fanart></fanart>
+	<info>UK Live Channels</info>
+</dir>
+
+<dir>
+	<title>UK Live TV Link 2</title>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/mytvshows.png</thumbnail>
+	<m3u>https://raw.githubusercontent.com/woolyk/wolfys/master/live/uk_060118_iptvsource_com2.m3u</m3u>
+	<fanart></fanart>
+	<info>UK Live Channels</info>
+</dir>
+
+<dir>
+	<title>UK Live TV Link 3</title>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/mytvshows.png</thumbnail>
+	<m3u>https://raw.githubusercontent.com/woolyk/wolfys/master/live/uk_060118_iptvsource_com3.m3u</m3u>
+	<fanart></fanart>
+	<info>UK Live Channels</info>
+</dir>
