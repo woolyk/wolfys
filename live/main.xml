@@ -29,3 +29,12 @@
 	<fanart></fanart>
 	<info>UK Live Channels</info>
 </dir>
+
+<dir>
+	<title>Tester Links</title>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/tvshows.png</thumbnail>
+	<m3u>https://raw.githubusercontent.com/woolyk/wolfys/master/live/TESTER1.m3u</m3u>
+	<fanart></fanart>
+	<info>UK Live Channels</info>
+</dir>
+
