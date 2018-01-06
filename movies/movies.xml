@@ -50,4 +50,5 @@
 	<title>Search Trakt</title>
 	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/search.png</thumbnail>
 	<trakt>search</trakt>
+	<summary>Search for Movies on Trakt</summary>
 </dir>

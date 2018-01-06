@@ -32,31 +32,43 @@
 	<dir>
 		<title>Popular Shows</title>
 		<tmdb>tv/popular</tmdb>
-		<thumbnail></thumbnail>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/most-popular.png</thumbnail>
 		<summary>Popular TV Shows</summary>
 	</dir>
 	<dir>
 		<title>Networks</title>
 		<link>https://raw.githubusercontent.com/woolyk/wolfys/master/tvshows/networks.xml</link>
-		<thumbnail></thumbnail>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/networks.png</thumbnail>
 		<summary>Networks</summary>
 	</dir>
 	<dir>
 		<title>Top Rated Shows</title>
 		<tmdb>tv/top_rated</tmdb>
-		<thumbnail></thumbnail>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/highly-rated.png</thumbnail>
 		<summary>Top Rated Tv Shows</summary>
 	</dir>
 	<dir>
 		<title>Airing Today</title>
 		<tmdb>tv/today</tmdb>
-		<thumbnail></thumbnail>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/airing-today.png</thumbnail>
 		<summary>Tv Shows Airing Today</summary>
 	</dir>
 	<dir>
-		<title>Search Shows</title>
+		<title>Search Shows TMDB</title>
 		<tmdb>search</tmdb>
-		<thumbnail></thumbnail>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/search.png</thumbnail>
 		<summary>Search for TV Shows on TMDB</summary>
+	</dir>
+	<dir>
+		<title>Search Shows Trakt</title>
+		<trakt>search</trakt>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/search.png</thumbnail>
+		<summary>Search for TV Shows on Trakt</summary>
+	</dir>
+	<dir>
+		<title>Search Shows IMDb</title>
+		<imdb>search</imdb>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/search.png</thumbnail>
+		<summary>Search the IMDB for TV Shows</summary>
 	</dir>
 </xml>
