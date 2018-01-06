@@ -2,7 +2,7 @@
 	<dir>
 		<title>My Shows</title>
 		<link>https://raw.githubusercontent.com/woolyk/wolfys/master/tvshows/myshows.xml</link>
-		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/mytvshows.png<thumbnail>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/mytvshows.png</thumbnail>
 		<summary>Some of my favourite TV Shows.</summary>
 	</dir>
 	<dir>
