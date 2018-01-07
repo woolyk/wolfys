@@ -1,39 +1,79 @@
-<dir>
-  <title>Reddit Top 250 (2017 Edition)</title>
-  <trakt>https://api.trakt.tv/users/philrivers/lists/reddit-top-250-2017-edition/items</trakt>
-</dir>
+    <dir>
+      <title>Trending Movies</title>
+      <trakt>https://api.trakt.tv/movies/trending</trakt>
+    </dir>
 
-<dir>
-  <title>Rotten Tomatoes: Best of 2017</title>
-  <trakt>https://api.trakt.tv/users/lish408/lists/rotten-tomatoes-best-of-2017/items</trakt>
-</dir>
+    <dir>
+      <title>Popular Movies</title>
+      <trakt>https://api.trakt.tv/movies/popular</trakt>
+    </dir>
 
-<dir>
-  <title>Bryan Cranston Movies Trakt</title>
-  <trakt>https://api.trakt.tv/people/bryan-cranston/movies</trakt>
-</dir>
+    <dir>
+      <title>Movie Watchlist</title>
+      <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
+    </dir>
 
-<dir>
-  <title>Bryan Cranston shows Trakt</title>
-  <trakt>https://api.trakt.tv/people/bryan-cranston/shows</trakt>
-</dir>
+    <dir>
+      <title>Movie Collection</title>
+      <trakt>https://api.trakt.tv/sync/collection/movies</trakt>
+    </dir>
 
-<dir>
-  <title>Bryan Cranston Shows TMDB</title>
-  <tmdb>person/shows/17419</tmdb>
-</dir>
+    <dir>
+      <title>Trending Shows</title>
+      <trakt>https://api.trakt.tv/shows/trending</trakt>
+    </dir>
 
-<dir>
-	<title>Bryan Cranston Movies TMDB</title>
-	<tmdb>person/movies/17419</tmdb>
-</dir>
+    <dir>
+      <title>Popular Shows</title>
+      <trakt>https://api.trakt.tv/shows/popular</trakt>
+    </dir>
 
-<dir>
-	<title>My Alien Movies</title>
-	<trakt>https://api.trakt.tv/users/woolykodi/lists/alien-movies/items</trakt>
-</dir>
+    <dir>
+      <title>TV Watchlist</title>
+      <trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>
+    </dir>
 
-<dir>
-	<title>My TV Shows</title>
-	<trakt>https://api.trakt.tv/users/woolykodi/lists/tv-shows/items</trakt>
-</dir>
+    <dir>
+      <title>TV Collection</title>
+      <trakt>https://api.trakt.tv/sync/collection/shows</trakt>
+    </dir>
+
+    <dir>
+      <title>My lists</title>
+      <trakt>https://api.trakt.tv/users/me/lists/</trakt>
+    </dir>
+
+    <dir>
+      <title>My Liked Lists</title>
+      <trakt>https://api.trakt.tv/users/likes/lists</trakt>
+    </dir>
+
+    <dir>
+      <title>Reddit Top 250 (2017 Edition)</title>
+      <trakt>https://api.trakt.tv/users/philrivers/lists/reddit-top-250-2017-edition/items</trakt>
+    </dir>
+
+    <dir>
+      <title>Bryan Cranston Movies Trakt</title>
+      <trakt>https://api.trakt.tv/people/bryan-cranston/movies</trakt>
+    </dir>
+
+    <dir>
+      <title>Bryan Cranston shows Trakt</title>
+      <trakt>https://api.trakt.tv/people/bryan-cranston/shows</trakt>
+    </dir>
+
+    <dir>
+      <title>Search Trakt</title>
+      <trakt>search</trakt>
+    </dir>
+
+	<dir>
+		<title>My Alien Movies</title>
+		<trakt>https://api.trakt.tv/users/woolykodi/lists/alien-movies/items</trakt>
+	</dir>
+
+	<dir>
+		<title>My TV Shows</title>
+		<trakt>https://api.trakt.tv/users/woolykodi/lists/tv-shows/items</trakt>
+	</dir>

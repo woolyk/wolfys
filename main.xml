@@ -40,17 +40,19 @@
 		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/trakt.png</thumbnail>
 		<summary>Testing to see if Trakt Lists are Working</summary>
 	</dir>
-  
+ 
+	<dir>
+		<title>TMDb Lists</title>
+		<link>https://raw.githubusercontent.com/woolyk/wolfys/master/tmdb/main.xml</link>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/imdb.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
+		<summary></summary>
+	</dir>
+	
 	<plugin>
 		<name>30701</name>
 		<link>plugin://plugin.video.jen/?action=openSettings</link>
 		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/tools.png</thumbnail>
 	</plugin>  
-
-	<plugin>
-		<name>30702</name>
-		<link>plugin://plugin.video.jen/?action=search</link>
-		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/search.png</thumbnail>
-	</plugin>
 	
 </xml>
