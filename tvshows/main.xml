@@ -41,4 +41,10 @@
 		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/search.png</thumbnail>
 		<summary>Search for TV Shows on Trakt</summary>
 	</dir>
+	<dir>
+		<title>Search TVDB</title>
+		<tvdb>search</tvdb>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/search.png</thumbnail>
+		<summary>Search TVDB for shows</summary>
+	</dir>
 </xml>
