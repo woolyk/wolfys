@@ -1,110 +1,175 @@
-    <dir>
-      <title>TMDB Popular</title>
-      <tmdb>movies/popular</tmdb>
-    </dir>
+<dir>
+	<title>TMDB Popular</title>
+	<tmdb>movies/popular</tmdb>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/imdb.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
+	<summary></summary>
+</dir>
 
-    <dir>
-      <title>TMDB Upcoming</title>
-      <tmdb>movie/upcoming</tmdb>
-      <summary>Shows Trailers For Upcoming Movies</summary>
-    </dir>
+<dir>
+	<title>TMDB Upcoming</title>
+	<tmdb>movie/upcoming</tmdb>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/imdb.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
+	<summary>Shows Trailers For Upcoming Movies</summary>
+</dir>
 
-    <dir>
-      <title>TMDB Now Playing</title>
-      <tmdb>movies/now_playing</tmdb>
-    </dir>
+<dir>
+	<title>TMDB Now Playing</title>
+	<tmdb>movies/now_playing</tmdb>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/imdb.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
+	<summary></summary>
+</dir>
 
-    <dir>
-      <title>TMDB Top Rated</title>
-      <tmdb>movies/top_rated</tmdb>
-    </dir>
+<dir>
+	<title>TMDB Top Rated</title>
+	<tmdb>movies/top_rated</tmdb>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/imdb.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
+	<summary></summary>
+</dir>
 
-    <dir>
-      <title>TMDB Action Movies</title>
-      <tmdb>genre/movies/28</tmdb>
-    </dir>
+<dir>
+	<title>TMDB Action Movies</title>
+	<tmdb>genre/movies/28</tmdb>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/imdb.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
+	<summary></summary>
+</dir>
 
-    <dir>
-      <title>Movies Released In 2014</title>
-      <tmdb>year/movies/2014</tmdb>
-    </dir>
+<dir>
+	<title>Movies Released In 2014</title>
+	<tmdb>year/movies/2014</tmdb>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/imdb.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
+	<summary></summary>
+</dir>
 
-    <dir>
-        <title>Pixar Animation</title>
-        <tmdb>company/movies/3</tmdb>
-    </dir>
+<dir>
+	<title>Pixar Animation</title>
+	<tmdb>company/movies/3</tmdb>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/imdb.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
+	<summary></summary>
+</dir>
 
-    <dir>
-      <title>TMDB Army Movies</title>
-      <tmdb>keyword/movies/6092</tmdb>
-    </dir>
+<dir>
+	<title>TMDB Army Movies</title>
+	<tmdb>keyword/movies/6092</tmdb>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/imdb.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
+	<summary></summary>
+</dir>
 
-    <dir>
-      <title>TMDB Star Wars Collection</title>
-      <tmdb>collection/10</tmdb>
-    </dir>
+<dir>
+	<title>TMDB Star Wars Collection</title>
+	<tmdb>collection/10</tmdb>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/imdb.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
+	<summary></summary>
+</dir>
 
-    <dir>
-      <title>TMDB Popular</title>
-      <tmdb>tv/popular</tmdb>
-    </dir>
+<dir>
+	<title>TMDB Popular</title>
+	<tmdb>tv/popular</tmdb>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/imdb.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
+	<summary></summary>
+</dir>
 
-    <dir>
-      <title>TMDB Top Rated</title>
-      <tmdb>tv/top_rated</tmdb>
-    </dir>
+<dir>
+	<title>TMDB Top Rated</title>
+	<tmdb>tv/top_rated</tmdb>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/imdb.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
+	<summary></summary>
+</dir>
 
-    <dir>
-      <title>TMDB Airing Today</title>
-      <tmdb>tv/today</tmdb>
-    </dir>
+<dir>
+	<title>TMDB Airing Today</title>
+	<tmdb>tv/today</tmdb>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/imdb.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
+	<summary></summary>
+</dir>
 
-    <dir>
-      <title>TMDB On The Air</title>
-      <tmdb>tv/on_the_air</tmdb>
-    </dir>
+<dir>
+	<title>TMDB On The Air</title>
+	<tmdb>tv/on_the_air</tmdb>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/imdb.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
+	<summary></summary>
+</dir>
 
-    <dir>
-      <title>TMDB Animation Shows</title>
-      <tmdb>genre/shows/16</tmdb>
-    </dir>
+<dir>
+	<title>TMDB Animation Shows</title>
+	<tmdb>genre/shows/16</tmdb>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/imdb.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
+	<summary></summary>
+</dir>
 
-    <dir>
-        <title>ABC</title>
-        <tmdb>network/shows/2</tmdb>
-    </dir>
+<dir>
+	<title>ABC</title>
+	<tmdb>network/shows/2</tmdb>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/imdb.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
+	<summary></summary>
+</dir>
 
-    <dir>
-      <title>TMDB King Shows</title>
-      <tmdb>keyword/shows/13084</tmdb>
-    </dir>
+<dir>
+	<title>TMDB King Shows</title>
+	<tmdb>keyword/shows/13084</tmdb>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/imdb.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
+	<summary></summary>
+</dir>
 
-    <dir>
-      <title>TMDB List: Animal Kingdom</title>
-      <tmdb>list/13488</tmdb>
-    </dir>
+<dir>
+	<title>TMDB List: Animal Kingdom</title>
+	<tmdb>list/13488</tmdb>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/imdb.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
+	<summary></summary>
+</dir>
 
-    <dir>
-      <title>Popular People</title>
-      <tmdb>people/popular</tmdb>
-    </dir>
+<dir>
+	<title>Popular People</title>
+	<tmdb>people/popular</tmdb>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/imdb.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
+	<summary></summary>
+</dir>
 
-    <dir>
-      <title>Bryan Cranston Shows TMDB</title>
-      <tmdb>person/shows/17419</tmdb>
-    </dir>
+<dir>
+	<title>Bryan Cranston Shows TMDB</title>
+	<tmdb>person/shows/17419</tmdb>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/imdb.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
+	<summary></summary>
+</dir>
 
-    <dir>
-      <title>Bryan Cranston Movies TMDB</title>
-      <tmdb>person/movies/17419</tmdb>
-    </dir>
+<dir>
+	<title>Bryan Cranston Movies TMDB</title>
+	<tmdb>person/movies/17419</tmdb>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/imdb.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
+	<summary></summary>
+</dir>
 
-   <dir>
-      <title>Star Wars: The Last Jedi TRAILER</title>
-      <tmdb>trailer/181808</tmdb>
-    </dir>
+<dir>
+	<title>Star Wars: The Last Jedi TRAILER</title>
+	<tmdb>trailer/181808</tmdb>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/imdb.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
+	<summary></summary>
+</dir>
 
-    <dir>
-      <title>Search TMDB</title>
-      <tmdb>search</tmdb>
-    </dir>
+<dir>
+	<title>Search TMDB</title>
+	<tmdb>search</tmdb>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/imdb.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
+	<summary></summary>
+</dir>

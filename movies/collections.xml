@@ -2,6 +2,7 @@
 	<title>Abbott and Costello</title>
 	<tmdb>list/43437</tmdb>
 	<thumbnail>https://image.tmdb.org/t/p/original/2DBUIZ8ZVeQ6ymi6mjuUYm2W9F4.jpg</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 	<summary>Abbott and Costello Movies</summary>
 </dir>
 
@@ -9,6 +10,7 @@
 	<title>Aliens</title>
 	<tmdb>lists/43286</tmdb>
 	<thumbnail>https://image.tmdb.org/t/p/original/uJ842iV9vYfV0JbzGW54eqhftVM.jpg</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 	<summary>Alien movies</summary>
 </dir>
 
@@ -16,6 +18,7 @@
 	<title>Comedy</title>
 	<tmdb>list/43260</tmdb>
 	<thumbnail>https://image.tmdb.org/t/p/original/wEgm6iVOD4afMlEo1VGi3Yz0cmd.jpg</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 	<summary>Movies to Lighten the mood</summary>
 </dir>
 
@@ -23,6 +26,7 @@
 	<title>Disney</title>
 	<tmdb>list/43432</tmdb>
 	<thumbnail>https://image.tmdb.org/t/p/original/7k0ASKteAb3vgn2icrXaNdY0Txx.jpg</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 	<summary>Disney Animated Movies (1942 - Present)</summary>
 </dir>
 
@@ -30,6 +34,7 @@
 	<title>Fantasy</title>
 	<tmdb>list/43305</tmdb>
 	<thumbnail>https://image.tmdb.org/t/p/original/ysX7vDmSh5O19vFjAi56WL7l4nk.jpg</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 	<summary>Fantasy Movies.</summary>
 </dir>
 
@@ -37,6 +42,7 @@
 	<title>Horror</title>
 	<tmdb>list/43285</tmdb>
 	<thumbnail>https://image.tmdb.org/t/p/original/zSo9i3K3ZC1r35XaTyrh8SkFxRU.jpg</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 	<summary>Movies to make you Scream!</summary>
 </dir>
 
@@ -44,6 +50,7 @@
 	<title>James Bond</title>
 	<tmdb>list/43426</tmdb>
 	<thumbnail>https://image.tmdb.org/t/p/original/jMo6XtNUTk3GTRTsqJ6vbuJnnla.jpg</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 	<summary>James Bond 007 Movies 1962-2015</summary>
 </dir>
 
@@ -51,6 +58,7 @@
 	<title>Jim Jefferies</title>
 	<tmdb>list/43580</tmdb>
 	<thumbnail>https://image.tmdb.org/t/p/w640/nUt41YMX6tHcyrHHlH6UMs2tZ9n.jpg</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 	<summary>Comedian Jim Jefferies.</summary>
 </dir>
 
@@ -58,6 +66,7 @@
 	<title>Mummy Movies</title>
 	<tmdb>list/43436</tmdb>
 	<thumbnail>https://image.tmdb.org/t/p/original/nxRzLZZUdceevapR4vAHp13cvC.jpg</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 	<summary>Mummy Movies</summary>
 </dir>
 
@@ -65,6 +74,7 @@
 	<title>Pirate Movies</title>
 	<tmdb>list/43307</tmdb>
 	<thumbnail>https://image.tmdb.org/t/p/original/aHEDfOxeCWdBhchGwlUQvUOv5Tb.jpg</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 	<summary>Swashbuckling Movies on the high sea.</summary>
 </dir>
 
@@ -72,6 +82,7 @@
 	<title>Robin Williams</title>
 	<tmdb>list/43389</tmdb>
 	<thumbnail>https://image.tmdb.org/t/p/original/qT2ZUEbDov03QYcLWekRZ5sAxmD.jpg</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 	<summary>Robin Williams at his best in some great movies.</summary>
 </dir>
 
@@ -79,6 +90,7 @@
 	<title>Sherlock Holmes</title>
 	<link>https://raw.githubusercontent.com/woolyk/wolfys/master/movies/sherlock.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/original/5IfzofrpSlwgfQG8rUOpHXNAawP.jpg</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 	<summary>Sherlock Holmes Movies</summary>
 </dir>
 
@@ -86,6 +98,7 @@
 	<title>Spy Movies</title>
 	<tmdb>list/43391</tmdb>
 	<thumbnail>https://image.tmdb.org/t/p/original/kBSJ18Wm49nKVr6bWplEKRazfkW.jpg</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 	<summary>Spy Movies through the ages</summary>
 </dir>
 
@@ -93,6 +106,7 @@
 	<title>Star Trek</title>
 	<tmdb>list/43617</tmdb>
 	<thumbnail>https://image.tmdb.org/t/p/original/hqsfe8mBWrvOQDEhIWcRlyQK5WL.jpg</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 	<summary>Star Trek Movies.</summary>
 </dir>
 
@@ -100,6 +114,7 @@
 	<title>Star Wars</title>
 	<tmdb>list/43614</tmdb>
 	<thumbnail>https://image.tmdb.org/t/p/original/bxK2SE2PGQUQJC1XjftntJTCpQJ.jpg</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 	<summary>Star Wars Movie Collection</summary>
 </dir>
 
@@ -107,5 +122,6 @@
 	<title>War Movies</title>
 	<tmdb>list/43383</tmdb>
 	<thumbnail>https://image.tmdb.org/t/p/original/f5fjkTBtIVhRp7YC8Pv8zXKuBLR.jpg</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 	<summary>A selection of the greatest War Movies of all time.</summary>
 </dir>

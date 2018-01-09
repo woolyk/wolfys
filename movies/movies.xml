@@ -2,6 +2,7 @@
 	<title>Genres</title>
 	<link>https://raw.githubusercontent.com/woolyk/wolfys/master/movies/genremovies.xml</link>
 	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/genres.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 	<summary>Movie Genres</summary>
 </dir>
 
@@ -9,6 +10,7 @@
 	<title>Collections</title>
 	<link>https://raw.githubusercontent.com/woolyk/wolfys/master/movies/collections.xml</link>
 	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/userlists.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 	<summary>A Collection of Movies to keep you entertained for hours.</summary>
 </dir>
 
@@ -16,6 +18,7 @@
 	<title>Most Popular</title>
 	<tmdb>movies/popular</tmdb>
 	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/most-popular.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 	<summary>Popular Movies</summary>
 </dir>
 
@@ -23,6 +26,7 @@
 	<title>Now Playing</title>
 	<tmdb>movies/now_playing</tmdb>
 	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/in-theaters.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 	<summary>Movies playing now</summary>
 </dir>
 
@@ -30,6 +34,7 @@
 	<title>Top Rated</title>
 	<tmdb>movies/top_rated</tmdb>
 	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/highly-rated.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 	<summary>Top Rated Movies.</summary>
 </dir>
 
@@ -37,6 +42,7 @@
 	<title>Trending</title>
 	<trakt>https://api.trakt.tv/movies/trending</trakt>
 	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/latest-movies.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 	<summary>Trending</summary>
 </dir>
 
@@ -44,11 +50,13 @@
 	<title>Search Tmdb</title>
 	<tmdb>search</tmdb>
 	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/search.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 	<summary>Search for Movies on TMDB</summary>
 </dir>
 <dir>
 	<title>Search Trakt</title>
-	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/search.png</thumbnail>
 	<trakt>search</trakt>
+	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/search.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 	<summary>Search for Movies on Trakt</summary>
 </dir>
