@@ -23,6 +23,12 @@
 	<summary>Drama and easy viewing.</summary>
 </dir>
 <dir>
+	<title>Retro TV</title>
+	<tmdb>list/45043</tmdb>
+	<thumbnail>https://image.tmdb.org/t/p/original/88JSDfXpyLhs4gk1248HusyIFKo.jpg</thumbnail>
+	<summary>Older TV Shows</summary>
+</dir>
+<dir>
 	<title>SyFy Shows</title>
 	<tmdb>list/43593</tmdb>
 	<thumbnail>https://image.tmdb.org/t/p/original/fByQ8M2Jx6GlhxaSl8y5Yl6geCc.jpg</thumbnail>
