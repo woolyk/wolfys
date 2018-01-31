@@ -54,6 +54,14 @@
 		<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 		<summary>The Movie Database Lists</summary>
 	</dir>
+
+	<dir>
+		<title>IMDb Lists</title>
+		<link>https://raw.githubusercontent.com/woolyk/wolfys/master/imdb/main.xml</link>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/imdb.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
+		<summary>Internet Movie Database Lists</summary>
+	</dir>
 	
 	<plugin>
 		<name>30701</name>
