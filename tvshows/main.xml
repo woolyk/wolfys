@@ -21,6 +21,13 @@
 		<summary>Networks</summary>
 	</dir>
 	<dir>
+		<title>Networks 02</title>
+		<link>https://raw.githubusercontent.com/woolyk/wolfys/master/tvshows/networks-02.xml</link>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/networks.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
+		<summary>Networks 02</summary>
+	</dir>
+	<dir>
 		<title>Top Rated Shows</title>
 		<tmdb>tv/top_rated</tmdb>
 		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/highly-rated.png</thumbnail>
