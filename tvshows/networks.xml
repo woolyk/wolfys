@@ -55,9 +55,9 @@
 </dir>
 
 <dir>
-  <title>Cartoon networks</title>
+  <title>Cartoon Network</title>
   <tmdb>network/shows/56</tmdb>
-  <thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/networks/cartoonnetworks.png</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/networks/cartoonnetwork.png</thumbnail>
 	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 </dir>
 
@@ -71,7 +71,7 @@
 <dir>
   <title>Cinemax</title>
   <tmdb>network/shows/359</tmdb>
-  <thumbnail>hhttps://raw.githubusercontent.com/woolyk/wolfys/master/media/networks/cinimax.png</thumbnail>
+  <thumbnail>hhttps://raw.githubusercontent.com/woolyk/wolfys/master/media/networks/cinemax.png</thumbnail>
 	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 </dir>
 
@@ -229,7 +229,7 @@
 </dir>
 
 <dir>
-  <title>The Movie networks</title>
+  <title>The Movie Network</title>
   <tmdb>network/shows/245</tmdb>
   <thumbnail></thumbnail>
 	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
