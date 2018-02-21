@@ -36,7 +36,7 @@
 	</dir>
 	<dir>
 		<title>Top Rated Shows</title>
-		<trakt>https://api.trakt.tv/users/justin/lists/imdb-top-rated-tv-shows</trakt>
+		<trakt>https://api.trakt.tv/users/justin/lists/imdb-top-rated-tv-shows/items</trakt>
 		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/highly-rated.png</thumbnail>
 		<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 		<summary>Top Rated Tv Shows</summary>
