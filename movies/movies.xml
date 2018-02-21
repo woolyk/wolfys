@@ -16,7 +16,7 @@
 
 <dir>
 	<title>Most Popular</title>
-	<tmdb>movies/popular</tmdb>
+	<trakt>https://api.trakt.tv/movies/popular</trakt>
 	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/most-popular.png</thumbnail>
 	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 	<summary>Popular Movies</summary>
@@ -24,7 +24,7 @@
 
 <dir>
 	<title>Now Playing</title>
-	<tmdb>movies/now_playing</tmdb>
+	<trakt>https://api.trakt.tv/users/movistapp/lists/now-playing</trakt>
 	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/in-theaters.png</thumbnail>
 	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 	<summary>Movies playing now</summary>
@@ -32,7 +32,7 @@
 
 <dir>
 	<title>Top Rated</title>
-	<tmdb>movies/top_rated</tmdb>
+	<trakt>https://api.trakt.tv/users/justin/lists/imdb-top-rated-movies</trakt>
 	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/highly-rated.png</thumbnail>
 	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 	<summary>Top Rated Movies.</summary>
@@ -47,16 +47,9 @@
 </dir>
 
 <dir>
-	<title>Search Tmdb</title>
-	<tmdb>search</tmdb>
-	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/search.png</thumbnail>
-	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
-	<summary>Search for Movies on TMDB</summary>
-</dir>
-<dir>
 	<title>Search Trakt</title>
 	<trakt>search</trakt>
 	<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/search.png</thumbnail>
 	<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
-	<summary>Search for Movies on Trakt</summary>
+	<summary>Search for Movies</summary>
 </dir>

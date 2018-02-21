@@ -7,11 +7,25 @@
 		<summary>Some of my favourite TV Shows.</summary>
 	</dir>
 	<dir>
+		<title>My Lists</title>
+		<trakt>https://api.trakt.tv/users/woolykodi/lists/</trakt>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/mytvshows.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
+		<summary>Some of my favourite TV Shows.</summary>
+	</dir>
+	<dir>
 		<title>Popular Shows</title>
-		<tmdb>tv/popular</tmdb>
+		<trakt>https://api.trakt.tv/shows/popular</trakt>
 		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/most-popular.png</thumbnail>
 		<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 		<summary>Popular TV Shows</summary>
+	</dir>
+	<dir>
+		<title>Trending Shows</title>
+		<trakt>https://api.trakt.tv/shows/trending</trakt>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/featured.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
+		<summary>Trending TV Shows</summary>
 	</dir>
 	<dir>
 		<title>Networks</title>
@@ -22,7 +36,7 @@
 	</dir>
 	<dir>
 		<title>Top Rated Shows</title>
-		<tmdb>tv/top_rated</tmdb>
+		<trakt>https://api.trakt.tv/users/justin/lists/imdb-top-rated-tv-shows</trakt>
 		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/highly-rated.png</thumbnail>
 		<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 		<summary>Top Rated Tv Shows</summary>
@@ -35,17 +49,10 @@
 		<summary>Tv Shows Airing Today</summary>
 	</dir>
 	<dir>
-		<title>Search Shows TMDB</title>
-		<tmdb>search</tmdb>
-		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/search.png</thumbnail>
-		<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
-		<summary>Search for TV Shows on TMDB</summary>
-	</dir>
-	<dir>
 		<title>Search Shows Trakt</title>
 		<trakt>search</trakt>
 		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/search.png</thumbnail>
 		<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
-		<summary>Search for TV Shows on Trakt</summary>
+		<summary>Search for TV Shows</summary>
 	</dir>
 </xml>
