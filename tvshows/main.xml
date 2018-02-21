@@ -1,6 +1,6 @@
 <xml>
 	<dir>
-		<title>My Shows</title>
+		<title>TV Shows</title>
 		<link>https://raw.githubusercontent.com/woolyk/wolfys/master/tvshows/myshows.xml</link>
 		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/mytvshows.png</thumbnail>
 		<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
@@ -49,7 +49,7 @@
 		<summary>Tv Shows Airing Today</summary>
 	</dir>
 	<dir>
-		<title>Search Shows Trakt</title>
+		<title>Search TV Shows</title>
 		<trakt>search</trakt>
 		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/search.png</thumbnail>
 		<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>

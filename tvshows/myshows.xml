@@ -1,42 +1,36 @@
 <dir>
-	<title>Adult Cartoons</title>
-	<tmdb>list/43592</tmdb>
+	<title>Cartoons</title>
+	<trakt>https://api.trakt.tv/users/woolykodi/lists/adult-cartoons/items</trakt>
 	<thumbnail>https://image.tmdb.org/t/p/original/v32fXIJNVK5fDyukpuHp7nQqWX4.jpg</thumbnail>
 	<summary>Cartoons for adults.</summary>
 </dir>
 <dir>
 	<title>Comedy Shows</title>
-	<tmdb>list/43535</tmdb>
+	<trakt>https://api.trakt.tv/users/woolykodi/lists/comedy-tv-shows/items</trakt>
 	<thumbnail>https://image.tmdb.org/t/p/original/aiZd4NcckCOKIDKySzACUf5Rk2U.jpg</thumbnail>
 	<summary>Comedy TV Shows</summary>
 </dir>
 <dir>
 	<title>Cowboy Shows</title>
-	<tmdb>list/45132</tmdb>
+	<trakt>https://api.trakt.tv/users/woolykodi/lists/cowboy-shows/items</trakt>
 	<thumbnail>https://image.tmdb.org/t/p/original/xpIqZ3nVD6cMRn1ha76XFmMPnKV.jpg</thumbnail>
 	<summary>The Wild West</summary>
 </dir>
 <dir>
 	<title>Crime</title>
-	<tmdb>list/43585</tmdb>
+	<trakt>https://api.trakt.tv/users/woolykodi/lists/cop-shows/items</trakt>
 	<thumbnail>https://image.tmdb.org/t/p/original/63tvg7N3o1bodWb2Vjzo9jxbPWc.jpg</thumbnail>
 	<summary>Crime, Murder, Detectives and Mysteries.</summary>
 </dir>
 <dir>
 	<title>Drama</title>
-	<tmdb>list/43582</tmdb>
+	<trakt>https://api.trakt.tv/users/woolykodi/lists/tv-shows/items</trakt>
 	<thumbnail>https://image.tmdb.org/t/p/original/eq8mvitSr3wWSoYtsYLtHsmqxL4.jpg</thumbnail>
 	<summary>Drama and easy viewing.</summary>
 </dir>
 <dir>
-	<title>Retro TV</title>
-	<tmdb>list/45043</tmdb>
-	<thumbnail>https://image.tmdb.org/t/p/original/88JSDfXpyLhs4gk1248HusyIFKo.jpg</thumbnail>
-	<summary>Older TV Shows</summary>
-</dir>
-<dir>
 	<title>SyFy Shows</title>
-	<tmdb>list/43593</tmdb>
+	<trakt>https://api.trakt.tv/users/woolykodi/lists/alien-shows/items</trakt>
 	<thumbnail>https://image.tmdb.org/t/p/original/fByQ8M2Jx6GlhxaSl8y5Yl6geCc.jpg</thumbnail>
 	<summary>SyFy shows.</subject>
 </dir>
