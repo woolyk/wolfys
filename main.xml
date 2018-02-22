@@ -14,38 +14,6 @@
 		<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 		<summary>TV Shows</summary>
 	</dir>
-
-	<dir>
-		<title>Music Portal</title>
-		<link>https://raw.githubusercontent.com/woolyk/wolfys/master/music/music.xml</link>
-		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/music.png</thumbnail>
-		<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
-		<summary>Music to relax to</summary>
-	</dir>
-
-	<dir>
-		<title>Screeners</title>
-		<link>https://raw.githubusercontent.com/woolyk/wolfys/master/screeners/screeners.xml</link>
-		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/movies.png</thumbnail>
-		<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
-		<summary>A list of screener movies</summary>
-	</dir>
-  
-	<dir>
-		<title>Trakt Lists</title>
-		<link>https://raw.githubusercontent.com/woolyk/wolfys/master/track/main.xml</link>
-		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/trakt.png</thumbnail>
-		<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
-		<summary>Testing to see if Trakt Lists are Working</summary>
-	</dir>
- 
-	<dir>
-		<title>IMDb Lists</title>
-		<link>https://raw.githubusercontent.com/woolyk/wolfys/master/imdb/main.xml</link>
-		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/imdb.png</thumbnail>
-		<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
-		<summary>Internet Movie Database Lists</summary>
-	</dir>
 	
 	<plugin>
 		<name>30701</name>
