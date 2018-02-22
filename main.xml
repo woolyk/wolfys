@@ -1,18 +1,18 @@
 <xml>
 	<dir>
-		<title>TV Portal</title>
-		<link>https://raw.githubusercontent.com/woolyk/wolfys/master/tvshows/main.xml</link>
-		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/tvshows.png</thumbnail>
-		<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
-		<summary>TV Shows</summary>
-	</dir>
-
-	<dir>
 		<title>Movies Portal</title>
 		<link>https://raw.githubusercontent.com/woolyk/wolfys/master/movies/movies.xml</link>
 		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/movies.png</thumbnail>
 		<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
 		<summary>Movies Old and New</summary>
+	</dir>
+
+	<dir>
+		<title>TV Portal</title>
+		<link>https://raw.githubusercontent.com/woolyk/wolfys/master/tvshows/main.xml</link>
+		<thumbnail>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/tvshows.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/woolyk/wolfys/master/media/wolfy/fanart.jpg</fanart>
+		<summary>TV Shows</summary>
 	</dir>
 
 	<dir>
